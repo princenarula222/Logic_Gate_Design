@@ -13,34 +13,8 @@ Input to the neural network is a two feature vector, individual values of which 
 2. Value above 0.5 is treated as logic 1.
 
 # OR Gate
-	<table>
-	    	  <tr>
-			<td colspan="2">Input</td> 
-			<td colspan="2">Output</td> 
-	   	  </tr>
-	    	  <tr>
-			<td>Input 1</td>
-			<td>Input 2</td>
-			<td>Output</td>
-	    	  </tr>
-		  <tr>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-	    	  </tr>
-                  <tr>
-			<td>0</td>
-			<td>1</td>
-			<td>1</td>
-	    	  </tr>
-                  <tr>
-			<td>1</td>
-			<td>0</td>
-			<td>1</td>
-	    	  </tr>
-                  <tr>
-			<td>1</td>
-			<td>1</td>
-			<td>1</td>
-	    	  </tr>
-	</table>
+	INPUT 1         INPUT 2         OUTPUT
+         0               0               0
+	 0               1               1
+	 1               0               1
+	 1               1               1
