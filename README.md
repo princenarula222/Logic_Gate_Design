@@ -14,33 +14,33 @@ Input to the neural network is a two feature vector, individual values of which 
 
 # OR Gate
 	<table>
-	    	<tr>
+	    	  <tr>
 			<td colspan="2">Input</td> 
 			<td colspan="2">Output</td> 
 	   	  </tr>
-	    	<tr>
+	    	  <tr>
 			<td>Input 1</td>
 			<td>Input 2</td>
 			<td>Output</td>
-	    	</tr>
-		    <tr>
+	    	  </tr>
+		  <tr>
 			<td>0</td>
 			<td>0</td>
 			<td>0</td>
-	    	</tr>
-        <tr>
+	    	  </tr>
+                  <tr>
 			<td>0</td>
 			<td>1</td>
 			<td>1</td>
-	    	</tr>
-        <tr>
+	    	  </tr>
+                  <tr>
 			<td>1</td>
 			<td>0</td>
 			<td>1</td>
-	    	</tr>
-        <tr>
+	    	  </tr>
+                  <tr>
 			<td>1</td>
 			<td>1</td>
 			<td>1</td>
-	    	</tr>
+	    	  </tr>
 	</table>
