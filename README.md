@@ -14,7 +14,7 @@ Input to the neural network is a two feature vector, individual values of which 
 
 # OR Gate
 	INPUT 1         INPUT 2         OUTPUT
-         0               0               0
+     0               0               0
 	 0               1               1
 	 1               0               1
 	 1               1               1
